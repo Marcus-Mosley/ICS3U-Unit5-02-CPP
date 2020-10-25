@@ -2,7 +2,7 @@
 //
 // Created by Marcus A. Mosley
 // Created on October 2020
-// This program calculates tyhe area of a triangle
+// This program calculates the area of a triangle
 
 #include <iostream>
 
